@@ -5,6 +5,4 @@
 	path = poky
 	url = https://git.yoctoproject.org/poky
 	branch = kirkstone
-[submodule "assignments-3-and-later-vinnyaa"]
-	path = assignments-3-and-later-vinnyaa
-	url = git@github.com:cu-ecen-aeld/assignments-3-and-later-vinnyaa.git
+
